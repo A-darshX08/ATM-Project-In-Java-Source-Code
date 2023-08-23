@@ -6,18 +6,13 @@ import java.awt.Toolkit;
 
 public class splash extends javax.swing.JFrame {
 
-    /**
-     * Creates new form splash
-     */
+  
     public splash() {
         initComponents();
         seticon();
     }
 
-    /**
-     * This method is called from within the constructor to initialize the form.
-
-     */
+  
     @SuppressWarnings("unchecked")
   
     private void initComponents() {
